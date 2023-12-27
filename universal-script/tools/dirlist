@@ -1,0 +1,15 @@
+apex/
+bin/hw/
+etc/dolby/
+etc/hyper/
+etc/nfc/
+etc/init/
+etc/permissions/
+etc/vintf/manifest/
+etc/selinux/
+firmware/
+lib/hw
+lib/soundfx
+lib64/hw/
+lib64/soundfx/
+
